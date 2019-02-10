@@ -8,7 +8,7 @@ This is a Scoreboard app completely developed with React. You can add and delete
 You can use this project to understand React.js basic and how React.js components works.
 ### To run the project
 
-Install the dependencies -Open the project folder in VS Code and Run the followig command in the terminal
+Install the dependencies -Open the project folder in VS Code and Run the following command in the terminal
 
 ```sh
 $ npm install
